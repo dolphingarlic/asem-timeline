@@ -1,6 +1,6 @@
 ---
-title: Composers
-timezone: Europe/Berlin
+title: Asem
+timezone: Africa/Johannesburg
 collections:
   posts:
     title: Posts
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
-baseurl: "/jekyll-timeline"
-url: http://himsel.me
+description: A timeline of events in 'Asem' by Jan Vermeulen
+baseurl: "/asem-timeline"
+url: http://bits-and-bytes.me/asem-timeline/
 color: "#f2f2f2"
